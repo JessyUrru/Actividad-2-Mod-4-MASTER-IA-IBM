@@ -1,0 +1,8 @@
+.vscode
+.env
+.pyc
+.DS_STORE
+apps/001-train/src/manifest.yml
+apps/002-predict/src/manifest.yml
+apps/001-train/src/vcap-local.json
+apps/002-predict/src/vcap-local.json
